@@ -13,6 +13,8 @@ git commit -> Confirma as modificações na fila
 git branch -> Controla as ramificações do repositório
 git push -> Salva as modificações que foram confirmadas
 git pull -> Puxa o repositório na nuvem para comparar com o local
+
+git clone -> Clona um repositório da nuvem (pode ser um repositório nosso ou de outro usuário)
 ```
 
 
