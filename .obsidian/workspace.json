@@ -6,7 +6,7 @@
       {
         "id": "858fc86f2c495ac8",
         "type": "tabs",
-        "dimension": 45.76547231270358,
+        "dimension": 60.016286644951144,
         "children": [
           {
             "id": "68ad8c6fa80bb3e8",
@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
+                "file": "Sintaxe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "Sintaxe"
             }
           },
           {
@@ -70,7 +70,7 @@
       {
         "id": "b033b6e8b1afd421",
         "type": "tabs",
-        "dimension": 54.23452768729642,
+        "dimension": 39.98371335504886,
         "children": [
           {
             "id": "a2aae7792cf3b6cf",
@@ -243,14 +243,14 @@
   },
   "active": "ab0ba354251ea9df",
   "lastOpenFiles": [
-    "Programação.md",
+    "Variáveis.md",
+    "Sintaxe.md",
     "Git.md",
+    "Programação.md",
     "Versionamento de código.md",
     "Pasted image 20260629193537.png",
     "lógica de programação.md",
-    "Sintaxe.md",
     "algoritmos.md",
-    "Variáveis.md",
     "Sem título.base"
   ]
 }
